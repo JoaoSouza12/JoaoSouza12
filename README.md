@@ -7,7 +7,6 @@ I'm currently studying computer engineering in college, with a focus on becoming
 - ✉️ You can contact me at [joao.sousa.12145@gmail.com](mailto:joao.sousa.12145@gmail.com)
 - 🧠 I'm learning Java, Spring, Node.js, JS, Angular, Git, Software Development
 - 🤝 I'm open to collaborating on open source projects
-- ⚡ A MOBA player in my spare time
 
 ### Skills
 
